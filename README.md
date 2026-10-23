@@ -99,9 +99,6 @@ No external resistor is needed: the code uses the Pico's internal pull-up.
 4. Save `config.py` onto the Pico and press **F5** to test.
 5. For normal use, unplug the Pico from the computer and power it with a USB charger: `main.py` starts automatically.
 
-> [!WARNING]
-> `config.py` contains your Wi-Fi password. It is listed in `.gitignore` and must never be published.
-
 ---
 
 ## Configuration
