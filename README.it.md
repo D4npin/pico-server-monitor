@@ -99,8 +99,6 @@ Non serve una resistenza esterna: il codice usa il pull-up interno del Pico.
 4. Salva `config.py` sul Pico e premi **F5** per provare.
 5. Per l'uso normale, scollega il Pico dal PC e alimentalo con un caricatore USB: `main.py` parte da solo.
 
-> [!WARNING]
-> `config.py` contiene la password del Wi-Fi. È nel `.gitignore` e non va mai pubblicato.
 
 ---
 
